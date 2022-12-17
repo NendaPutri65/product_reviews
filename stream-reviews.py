@@ -17,7 +17,7 @@ st.subheader("Tugas UAS Business intelligence")
 st.markdown("NENDA PUTRI SUCIATY")
 st.markdown("191351065")
 
-st.header("COBA REVIEWS")
+st.header("REVIEWS")
 clean_reviews = st.text_input('MASUKAN KATA :')
 
 fraud_detection = ''
